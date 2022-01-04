@@ -1,4 +1,4 @@
 GO TO COMMAND PROMPT THEN ENTER
 cd "TO YOUR FOLDER DIRECTORY" 
-inestal npm
+npm install
 npm start
